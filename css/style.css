@@ -1,0 +1,39 @@
+.footer{
+	background-color:#006600;
+	width:100%;
+	color:white;
+	padding:20px 20px 20px 20px;
+}
+.footer-2{
+	background-color:#004d00;
+	width:100%;
+	color:white;
+	text-align:center;
+	padding:18px 0 18px 0;
+}
+.follow{
+	padding-left:50px;
+}
+hr{
+
+    margin-top: 0.7em;
+    margin-bottom: 0.7em;
+    margin-left: auto;
+    margin-right: 50%;
+}
+
+.text{
+	
+	color:white;
+	
+}
+.abc:hover{
+	background-color:#993300;
+	
+}
+
+.zoom:hover {
+    -ms-transform: scale(1.2); /* IE 9 */
+    -webkit-transform: scale(1.2); /* Safari 3-8 */
+    transform: scale(1.2); 
+}
